@@ -1,0 +1,20 @@
+html{
+  background-color:#F1F1F1;
+}
+
+.login, .form{
+  width: 400px;
+  height: 400px;
+  margin: 50px auto;
+}
+
+.main{
+  margin: 24px 0px 0px 0px;
+}
+
+.form-create{
+  width: 600px;
+  height: auto;
+  min-height: 400px;
+  margin: 50px auto;
+}

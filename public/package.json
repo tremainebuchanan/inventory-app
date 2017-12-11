@@ -1,0 +1,16 @@
+{
+  "name": "inventory-system",
+  "version": "1.0.0",
+  "description": "Inventory Manangement System",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tremaine Buchanan",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.6.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1"
+  }
+}
